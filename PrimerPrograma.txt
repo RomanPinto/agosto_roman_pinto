@@ -1,2 +1,1 @@
-Primer programa
-hoy es martes
+Primer programa.
